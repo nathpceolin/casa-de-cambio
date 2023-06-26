@@ -1,0 +1,15 @@
+{
+  "name": "casa-de-cambio-aula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.12",
+    "vite": "^4.3.9"
+  }
+}
